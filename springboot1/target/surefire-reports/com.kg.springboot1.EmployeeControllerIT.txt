@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.kg.springboot1.EmployeeControllerIT
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 20.278 s - in com.kg.springboot1.EmployeeControllerIT

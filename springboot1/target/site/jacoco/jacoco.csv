@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+springboot1,com.kg.springboot1,EmployeeController,0,41,0,0,0,10,0,6,0,6
+springboot1,com.kg.springboot1,Springboot1Application,5,24,0,0,2,5,1,2,1,2
+springboot1,com.kg.springboot1,SwaggerConfig,0,15,0,0,0,6,0,2,0,2
+springboot1,com.kg.springboot1,Employee,23,46,0,0,9,9,7,5,7,5
